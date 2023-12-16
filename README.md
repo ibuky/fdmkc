@@ -12,7 +12,7 @@ Below are settings in PrusaSlicer for reference. There may more accurate and fas
 <image src='./advanced.png' />
 <image src='./speed.png' />
 
-Sliced image should be like this. If the nozzle path is choppy, adjust the settings.
+Sliced image, especially stem, should be like this. If the nozzle path is choppy, adjust the settings.
 <image src='./slice.png' />
 
 # License
