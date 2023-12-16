@@ -9,6 +9,8 @@ My environment: VORON 2.4 R2 350mm with 0.4mm nozzle (Phaetus Dragon HF).
 Below are settings in PrusaSlicer for reference. There may more accurate and fast print settings.
 
 <image src='./layers-and-perimeters.png' />
+**To avoid choppy nozzle path, set Perimeter Generator to Classic. If arachne is selected the path will be messy!**
+
 <image src='./advanced.png' />
 <image src='./speed.png' />
 
